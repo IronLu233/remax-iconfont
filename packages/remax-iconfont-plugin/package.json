@@ -11,15 +11,15 @@
   "license": "MIT",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc src/*.ts --outDir dist -d --esModuleInterop"
+    "build": "tsc src/*.ts --outDir dist -d --esModuleInterop",
+    "prepublishOnly": "npm run build"
   },
   "dependencies": {
     "download": "^8.0.0",
-    "typescript": "^3.8.3",
-    "webpack-sources": "^1.4.3",
-    "webpack-virtual-modules": "^0.2.2"
+    "webpack-sources": "^1.4.3"
   },
   "devDependencies": {
+    "typescript": "^3.8.3",
     "@types/download": "^6.2.4",
     "@types/webpack": "^4.41.12",
     "@types/webpack-chain": "^5.2.0",

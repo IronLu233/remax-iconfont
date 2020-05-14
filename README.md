@@ -1,4 +1,4 @@
-# webpack-remax-phone-frame-plugin
+# remax-iconfont
 
 在 Remax 项目中引入 Iconfont
 

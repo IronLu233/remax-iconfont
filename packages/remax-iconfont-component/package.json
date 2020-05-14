@@ -1,13 +1,14 @@
 {
   "name": "remax-iconfont-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remax的Iconfont组件",
   "author": "IronL <280137563@qq.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "dist/index.jsx",
+  "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
   },
   "peerDependencies": {
     "react": "^16.8.6",
@@ -19,6 +20,7 @@
   },
   "devDependencies": {
     "react": "^16.8.6",
-    "remax": "^2.0.0"
+    "remax": "^2.0.0",
+    "typescript": "^3.9.2"
   }
 }
