@@ -1,6 +1,4 @@
-const {
-  RemaxIconfontPlugin,
-} = require("../packages/remax-iconfont-plugin/dist/index");
+const { RemaxIconfontPlugin } = require("remax-iconfont-plugin");
 
 module.exports = {
   one: true,

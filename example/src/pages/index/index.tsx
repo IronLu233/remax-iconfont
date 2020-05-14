@@ -1,6 +1,6 @@
 import * as React from "react";
 import { View, Text, Image } from "remax/one";
-import Icon from "../../../../packages/remax-iconfont-component/dist";
+import Icon from "remax-iconfont-component";
 import styles from "./index.css";
 
 export default () => {
