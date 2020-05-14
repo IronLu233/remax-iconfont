@@ -1,0 +1,25 @@
+{
+  "name": "remax-iconfont",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "keywords": [
+    "remax",
+    "webpack",
+    "iconfont"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IronLu233/webpack-remax-phone-frame-plugin"
+  },
+  "scripts": {
+    "prepublishOnly": "yarn build"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}

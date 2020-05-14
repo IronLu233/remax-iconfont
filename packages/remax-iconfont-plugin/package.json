@@ -1,0 +1,29 @@
+{
+  "name": "remax-iconfont-plugin",
+  "version": "1.0.0",
+  "description": "将Iconfont你的Remax项目中",
+  "keywords": [
+    "iconfont",
+    "webpack"
+  ],
+  "author": "IronLu233 <lrironsora@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc src/*.ts --outDir dist -d --esModuleInterop"
+  },
+  "dependencies": {
+    "download": "^8.0.0",
+    "typescript": "^3.8.3",
+    "webpack-sources": "^1.4.3",
+    "webpack-virtual-modules": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/download": "^6.2.4",
+    "@types/webpack": "^4.41.12",
+    "@types/webpack-chain": "^5.2.0",
+    "@types/webpack-sources": "^0.1.7",
+    "@types/webpack-virtual-modules": "^0.1.0"
+  }
+}
