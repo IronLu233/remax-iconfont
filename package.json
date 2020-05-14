@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/IronLu233/webpack-remax-phone-frame-plugin"
+    "url": "https://github.com/IronLu233/remax-iconfont"
   },
   "scripts": {
     "prepublishOnly": "yarn build"
@@ -20,6 +20,6 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "lerna": "^3.20.2"
+    "lerna": "^3.21.0"
   }
 }
