@@ -6833,10 +6833,10 @@ relateurl@^0.2.7:
   resolved "https://registry.npmjs.org/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=
 
-remax-iconfont-component@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/remax-iconfont-component/-/remax-iconfont-component-1.0.1.tgz#c31b7d40dff030c77f8dd1d2606ff836a9e5784b"
-  integrity sha512-PBTv4eCuezYW4uCNYHyXOWLSz7DlaD7/9OEz4SzMCLA0X639bzpxWWhE3W2u5dI2pto0ucFkCoVatIRAywt1dg==
+remax-iconfont-component@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/remax-iconfont-component/-/remax-iconfont-component-1.0.2.tgz#afa08de653713afe6d98823ecc02200583ce86dc"
+  integrity sha512-JMkmiR4kglF/r46sfKIqV8h2+zxaR23tG+bSRzdvNguGfOYD6npImDQclO756Q6SfC/RlRxO4xkcigeSMwLQvA==
   dependencies:
     "@types/react" "^16.9.35"
     clsx "^1.1.0"

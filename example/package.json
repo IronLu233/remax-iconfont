@@ -15,7 +15,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "remax": "^2.0.6",
-    "remax-iconfont-component": "^1.0.1",
+    "remax-iconfont-component": "^1.0.2",
     "remax-iconfont-plugin": "^1.0.0",
     "webpack-virtual-modules": "^0.2.2"
   },
